@@ -8,3 +8,5 @@ tags:
 languages:
   - javascript
 resources: 6
+
+parent_template: git@github.com:learn-co-curriculum/js-principles-errors-and-stack-traces-readme.git

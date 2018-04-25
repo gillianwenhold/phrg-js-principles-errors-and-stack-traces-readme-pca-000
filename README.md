@@ -224,3 +224,4 @@ As you become more comfortable diagnosing and solving error messages, you'll bec
 [try...catch]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-principles-errors-and-stack-traces-readme'>Errors and Stack Traces</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Errors and Stack Traces</p>
