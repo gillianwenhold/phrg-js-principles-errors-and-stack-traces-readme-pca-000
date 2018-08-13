@@ -209,6 +209,10 @@ Arguably the biggest difference between being a novice and an expert developer i
 
 As you become more comfortable diagnosing and solving error messages, you'll become a faster, better programmer, and writing JavaScript code will become more and more enjoyable!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-principles-errors-and-stack-traces-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-principles-errors-and-stack-traces-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - [MDN — Errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
   + [`Uncaught ReferenceError: _____ is not defined`][x is not defined]
